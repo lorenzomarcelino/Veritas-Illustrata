@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "verses": ["Genesis 1:1", "John 1:1", "Luke 1:1"],
+    "text": "Short description of the alleged contradiction in English.",
+    "tags": ["creation", "logos"],
+    "notes": ""
+  }
+  // … repeat for each entry …
+]
+
